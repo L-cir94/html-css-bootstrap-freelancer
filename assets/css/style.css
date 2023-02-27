@@ -1,0 +1,9 @@
+*{
+    border: dashed;
+}
+.debug .banner{
+    height: 200px;
+}
+.debug .portfolio{
+    height: 600px;
+}
