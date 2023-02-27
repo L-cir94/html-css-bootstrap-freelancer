@@ -1,11 +1,14 @@
 *{
-    border: dashed 0.1px;
+
 }
 .debug .banner{
     height: 500px;
 }
 .debug .portfolio{
-    height: 600px;
+    height: 300px;
+}
+.debug .about{
+    height: 500px;
 }
 svg{
     width: 100px;
