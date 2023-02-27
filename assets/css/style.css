@@ -1,9 +1,16 @@
 *{
-    border: dashed;
+    border: dashed 0.1px;
 }
 .debug .banner{
-    height: 200px;
+    height: 500px;
 }
 .debug .portfolio{
     height: 600px;
+}
+svg{
+    width: 100px;
+}
+.debug [class^="col-"]{
+    height: 50px;
+    background-color: aqua;
 }
