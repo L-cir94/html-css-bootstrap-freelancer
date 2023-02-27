@@ -17,3 +17,13 @@ svg{
     height: 50px;
     background-color: aqua;
 }
+footer{
+    height: 100px;
+}
+footer .container-fluid{
+    height: 200px;
+    width: 100%;
+}
+.banner_bottom{
+    height: 300px;
+}
