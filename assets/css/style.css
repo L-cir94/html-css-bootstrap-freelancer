@@ -1,6 +1,18 @@
 *{
 
 }
+:root {
+    --my-primary: #1abc9c;
+    --my-medium: #3a546d;
+    --my-dark: #2c3e50;
+    --my-card-house:#ba4b63;
+    --my-card-cake:#1ea4b6;
+    --my-card-circus:#140f0f;
+    --my-card-play:#1c83c1;
+    --my-card-secure:#0e38b5;
+    --my-card-submarine:#ccb2a3;
+
+  }
 .debug .banner{
     height: 500px;
 }
