@@ -51,7 +51,8 @@ height: 3px;
     }
 .my_ico{
     border: solid 1px;
-    padding: 0.9rem 1.4rem;
+    height: 50px;
+    width: 50px;
     border-radius: 50%;
 }
 .ico_container{
