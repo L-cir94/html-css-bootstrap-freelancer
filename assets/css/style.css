@@ -39,3 +39,13 @@ footer .container-fluid{
 .banner_bottom{
     height: 300px;
 }
+.stick{
+background-color: white;
+width: 70px;    
+height: 3px;
+}
+.stick_black{
+    background-color: rgb(0, 0, 0);
+    width: 70px;    
+    height: 3px;
+    }
